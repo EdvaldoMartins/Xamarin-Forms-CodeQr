@@ -1,0 +1,13 @@
+/Users/edvaldo/Projects/xamarin_forms_codeQr/xamarin_forms_codeQr/bin/Debug/netstandard2.0/xamarin_forms_codeQr.deps.json
+/Users/edvaldo/Projects/xamarin_forms_codeQr/xamarin_forms_codeQr/bin/Debug/netstandard2.0/xamarin_forms_codeQr.dll
+/Users/edvaldo/Projects/xamarin_forms_codeQr/xamarin_forms_codeQr/bin/Debug/netstandard2.0/xamarin_forms_codeQr.pdb
+/Users/edvaldo/Projects/xamarin_forms_codeQr/xamarin_forms_codeQr/obj/Debug/netstandard2.0/xamarin_forms_codeQr.csprojAssemblyReference.cache
+/Users/edvaldo/Projects/xamarin_forms_codeQr/xamarin_forms_codeQr/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/edvaldo/Projects/xamarin_forms_codeQr/xamarin_forms_codeQr/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/edvaldo/Projects/xamarin_forms_codeQr/xamarin_forms_codeQr/obj/Debug/netstandard2.0/xamarin_forms_codeQr.csproj.CoreCompileInputs.cache
+/Users/edvaldo/Projects/xamarin_forms_codeQr/xamarin_forms_codeQr/obj/Debug/netstandard2.0/xamarin_forms_codeQr.AssemblyInfoInputs.cache
+/Users/edvaldo/Projects/xamarin_forms_codeQr/xamarin_forms_codeQr/obj/Debug/netstandard2.0/xamarin_forms_codeQr.AssemblyInfo.cs
+/Users/edvaldo/Projects/xamarin_forms_codeQr/xamarin_forms_codeQr/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/edvaldo/Projects/xamarin_forms_codeQr/xamarin_forms_codeQr/obj/Debug/netstandard2.0/xamarin_forms_codeQr.dll
+/Users/edvaldo/Projects/xamarin_forms_codeQr/xamarin_forms_codeQr/obj/Debug/netstandard2.0/xamarin_forms_codeQr.pdb
+/Users/edvaldo/Projects/xamarin_forms_codeQr/xamarin_forms_codeQr/obj/Debug/netstandard2.0/ScannerPage.xaml.g.cs
