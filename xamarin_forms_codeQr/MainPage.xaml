@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:local="clr-namespace:xamarin_forms_codeQr"
+             xmlns:zxing="clr-namespace:ZXing.Net.Mobile.Forms;assembly=ZXing.Net.Mobile.Forms"
+             x:Class="xamarin_forms_codeQr.MainPage">
+    <StackLayout
+        Orientation="Vertical"
+        Margin="20"
+        VerticalOptions="CenterAndExpand">
+         <zxing:ZXingBarcodeImageView
+                x:Name="Barcode"
+                BarcodeFormat="QR_CODE" 
+                WidthRequest="300" 
+                FlowDirection="MatchParent"
+                BarcodeValue="Coneqta" 
+                AutomationId="zxingBarcodeImageView"
+                HeightRequest="300" 
+                Margin="10" />
+        <Entry HorizontalOptions="FillAndExpand"
+               Margin="10"
+               Placeholder="Value"
+               TextColor="Maroon"
+               x:Name="Editors"/>
+        
+        <Button x:Name="Gerar"
+                HorizontalOptions="FillAndExpand"
+                Clicked="Handle_Clicked"
+                Padding="10"
+                Margin="10"
+                BackgroundColor="Maroon"
+                TextColor="White"
+                Text="Gerar"/>
+        
+       
+
+    </StackLayout>
+</ContentPage>
